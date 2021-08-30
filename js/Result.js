@@ -1,4 +1,4 @@
-var Data = {'17691A0136': ['8.92', '8.92'],''};
+var Data = {'17691A0136': ['8.92', '8.92']};
 var roll;	
 var sem;
 function GetRes(){
